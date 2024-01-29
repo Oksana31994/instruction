@@ -98,3 +98,5 @@ git push -u
 ```sh
 git pull 
 ```
+
+Удачи!
